@@ -6,3 +6,8 @@ A ML project that predicts potential side effects of pharmaceutical drugs based 
 A machine learning project that predicts the **side effect sentiment** of drugs and Medical condition based on drug metadata, usage condition, and textual side effect descriptions.
 
 ---
+## 👩‍💻 Author
+
+Iqra Shaikh
+Data Scientist | Machine Learning Enthusiast
+📧 Contact: [shaikhiqra1503@gmail.com]
